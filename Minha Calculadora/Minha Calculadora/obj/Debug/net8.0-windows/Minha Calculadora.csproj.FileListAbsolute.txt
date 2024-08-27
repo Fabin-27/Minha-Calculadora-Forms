@@ -1,0 +1,17 @@
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\bin\Debug\net8.0-windows\Minha Calculadora.exe
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\bin\Debug\net8.0-windows\Minha Calculadora.deps.json
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\bin\Debug\net8.0-windows\Minha Calculadora.runtimeconfig.json
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\bin\Debug\net8.0-windows\Minha Calculadora.dll
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\bin\Debug\net8.0-windows\Minha Calculadora.pdb
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.csproj.GenerateResource.cache
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.AssemblyInfoInputs.cache
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.AssemblyInfo.cs
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.dll
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\refint\Minha Calculadora.dll
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.pdb
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.genruntimeconfig.cache
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\ref\Minha Calculadora.dll
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha_Calculadora.Calculadora.resources
+C:\Users\Loure\source\repos\Minha Calculadora\Minha Calculadora\obj\Debug\net8.0-windows\Minha Calculadora.sourcelink.json
